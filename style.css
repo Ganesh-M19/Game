@@ -1,0 +1,19 @@
+.container{
+width: 20%;
+height: 200px;
+margin: 0 auto;
+padding: 15px;
+border: 2px solid black;
+border-radius: 10px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#user_input input{
+    width: 90%;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 1.5rem;
+}
+#Computer,#User,#Result{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
